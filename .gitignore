@@ -1,0 +1,4 @@
+*.suo
+*.user
+maclocker/bin/*
+maclocker/obj/*
