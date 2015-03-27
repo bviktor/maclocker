@@ -150,7 +150,6 @@ namespace maclocker
             Console.WriteLine();
             Console.WriteLine("If OU DN or user/pass are omitted, the App.config values are used.");
             Console.WriteLine("If you set useOsAuth to true in App.config, user and pass are ignored.");
-            Console.ReadLine();
         }
 
         static void Main(string[] args)
