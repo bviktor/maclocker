@@ -1,4 +1,4 @@
-# maclocker
+# MacLocker
 
 ## What is it
 
