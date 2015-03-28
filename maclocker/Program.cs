@@ -243,10 +243,10 @@ namespace maclocker
                     }
                 }
                 else
-	            {
+                {
                     FinishUp();
                     return;
-	            }
+                }
             }
 
             Console.Write("Adding recovery key:\t\t\t");
