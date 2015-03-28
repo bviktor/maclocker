@@ -131,7 +131,7 @@ namespace maclocker
 
         static void PrintHelp()
         {
-            Console.WriteLine("MacLocker - utility to save FileVault recovery passwords as BitLocker keys in Active Directory. Requires your AD schema to be prepared to store BitLocker info.");
+            Console.WriteLine("MacLocker - utility to save FileVault recovery keys as BitLocker passwords in Active Directory. Requires your AD schema to be prepared to store BitLocker info.");
             Console.WriteLine();
             Console.WriteLine("Usage:");
             Console.WriteLine("\tmaclocker <comp> <key>");

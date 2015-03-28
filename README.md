@@ -2,7 +2,7 @@
 
 ## What is it
 
-It's a utility to save FileVault recovery passwords as BitLocker keys in Active Directory
+It's a utility to save FileVault recovery keys as BitLocker passwords in Active Directory
 
 ## Download
 
