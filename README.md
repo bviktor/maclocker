@@ -14,4 +14,4 @@ It's a utility to save FileVault recovery keys as BitLocker passwords in Active 
 
 ## Result
 
-<img src="img/ad.png" />
+<img src="img/adbl.png" />
